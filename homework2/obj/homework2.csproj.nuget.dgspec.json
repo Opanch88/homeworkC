@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Олег\\Desktop\\homework C#\\homework2\\homework2.csproj": {}
+    "c:\\Users\\Олег\\Desktop\\homework C#\\homework2\\homework2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Олег\\Desktop\\homework C#\\homework2\\homework2.csproj": {
+    "c:\\Users\\Олег\\Desktop\\homework C#\\homework2\\homework2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Олег\\Desktop\\homework C#\\homework2\\homework2.csproj",
+        "projectUniqueName": "c:\\Users\\Олег\\Desktop\\homework C#\\homework2\\homework2.csproj",
         "projectName": "homework2",
-        "projectPath": "C:\\Users\\Олег\\Desktop\\homework C#\\homework2\\homework2.csproj",
+        "projectPath": "c:\\Users\\Олег\\Desktop\\homework C#\\homework2\\homework2.csproj",
         "packagesPath": "C:\\Users\\Олег\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Олег\\Desktop\\homework C#\\homework2\\obj\\",
+        "outputPath": "c:\\Users\\Олег\\Desktop\\homework C#\\homework2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Олег\\AppData\\Roaming\\NuGet\\NuGet.Config"

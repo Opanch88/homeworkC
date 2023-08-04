@@ -42,32 +42,33 @@ else
 //A (7,-5, 0); B (1,-1,9) -> 11.53
 
 
+
 /*
 
-int ReadInt(string graphics)
+
+double ReadInt(string graphics)
 {
     Console.Write(graphics);
     return Convert.ToInt32(Console.ReadLine());
 }
 
 
-int x1 = ReadInt("Enter х1: ");
-int y1 = ReadInt("Enter y1: ");
-int z1 = ReadInt("Enter z1: ");
-int x2 = ReadInt("Enter х2: ");
-int y2 = ReadInt("Enter y2: ");
-int z2 = ReadInt("Enter z2: ");
+double x1 = ReadInt("Enter х1: ");                           // дописать что б работ double 
+double y1 = ReadInt("Enter y1: ");
+double z1 = ReadInt("Enter z1: ");
+double x2 = ReadInt("Enter х2: ");
+double y2 = ReadInt("Enter y2: ");
+double z2 = ReadInt("Enter z2: ");
 
-int A = x2 - x1;
-int B = y2 - y1;
-int C = z2 - z1;
+double A = x2 - x1;
+double B = y2 - y1;
+double C = z2 - z1;
 
 double length = Math.Round(Math.Sqrt(A * A + B * B + C * C), 2);
 Console.WriteLine("Distance = " + length);
 
+
 */
-
-
 
 
 
@@ -95,5 +96,4 @@ for (int i = 0; i <= number; i++)
 }
 
 */
-
 

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "homework1", "homework1\homework1.csproj", "{AE8139C2-02A2-400D-A0A4-A5D75F8EEA94}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "homework2", "homework2\homework2.csproj", "{4330F885-5FE2-454C-AC8B-B6A8375A965F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "homework3", "homework3\homework3.csproj", "{E5867A2F-9D57-4AAD-9409-68ED0612D66B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE8139C2-02A2-400D-A0A4-A5D75F8EEA94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8139C2-02A2-400D-A0A4-A5D75F8EEA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8139C2-02A2-400D-A0A4-A5D75F8EEA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8139C2-02A2-400D-A0A4-A5D75F8EEA94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4330F885-5FE2-454C-AC8B-B6A8375A965F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4330F885-5FE2-454C-AC8B-B6A8375A965F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4330F885-5FE2-454C-AC8B-B6A8375A965F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4330F885-5FE2-454C-AC8B-B6A8375A965F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5867A2F-9D57-4AAD-9409-68ED0612D66B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5867A2F-9D57-4AAD-9409-68ED0612D66B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5867A2F-9D57-4AAD-9409-68ED0612D66B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5867A2F-9D57-4AAD-9409-68ED0612D66B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C1DAFC8-B502-4880-89EB-022CE63780D4}
+	EndGlobalSection
+EndGlobal
