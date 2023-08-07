@@ -1,0 +1,15 @@
+C:\Users\Олег\Desktop\homework C#\homework5\obj\Debug\net6.0\homework5.csproj.AssemblyReference.cache
+C:\Users\Олег\Desktop\homework C#\homework5\obj\Debug\net6.0\homework5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олег\Desktop\homework C#\homework5\obj\Debug\net6.0\homework5.AssemblyInfoInputs.cache
+C:\Users\Олег\Desktop\homework C#\homework5\obj\Debug\net6.0\homework5.AssemblyInfo.cs
+C:\Users\Олег\Desktop\homework C#\homework5\obj\Debug\net6.0\homework5.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\homework C#\homework5\bin\Debug\net6.0\homework5.exe
+C:\Users\Олег\Desktop\homework C#\homework5\bin\Debug\net6.0\homework5.deps.json
+C:\Users\Олег\Desktop\homework C#\homework5\bin\Debug\net6.0\homework5.runtimeconfig.json
+C:\Users\Олег\Desktop\homework C#\homework5\bin\Debug\net6.0\homework5.dll
+C:\Users\Олег\Desktop\homework C#\homework5\bin\Debug\net6.0\homework5.pdb
+C:\Users\Олег\Desktop\homework C#\homework5\obj\Debug\net6.0\homework5.dll
+C:\Users\Олег\Desktop\homework C#\homework5\obj\Debug\net6.0\refint\homework5.dll
+C:\Users\Олег\Desktop\homework C#\homework5\obj\Debug\net6.0\homework5.pdb
+C:\Users\Олег\Desktop\homework C#\homework5\obj\Debug\net6.0\homework5.genruntimeconfig.cache
+C:\Users\Олег\Desktop\homework C#\homework5\obj\Debug\net6.0\ref\homework5.dll
