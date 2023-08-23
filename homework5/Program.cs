@@ -30,6 +30,9 @@ Console.Write("Our array: ");
 WriteArray(myArray);
 
 
+
+
+
 int num = 0;
 
 for (int i = 0; i < myArray.Length; i++)
@@ -37,11 +40,10 @@ if (myArray[i] % 2 == 0)
 
 num++;
 
-Console.WriteLine ("Number of even numbers: " + num );
+Console.WriteLine ("Number of even numbers: " + num);   
 
 
 */
-
 
 
     // Задача 36: Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечётных позициях.
@@ -94,8 +96,6 @@ WriteArray(myArray);
 Console.WriteLine("The sum of elements on odd positions: " + SumOf(myArray)); 
 
 */
-
-
 
 
 
