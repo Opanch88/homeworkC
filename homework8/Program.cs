@@ -142,23 +142,22 @@ Console.WriteLine($"Row with the lowest sum of elements: {SumMinNumbers(SumMinRo
 //    Task 58: Задайте две матрицы. Напишите программу, 
 //             которая будет находить произведение двух матриц.
 
-// 1 выводит доп запрос строки и столбца 
-// 2 при некоректном вводе ( при несовпадении строки А с столбцами Б ломаеться программа )
+/*
 
 int[,] CreateRandomMatrixA()
 {
-    Console.Write("Введите количество строк первой матрицы: ");
+    Console.Write("Enter the number of rows of the first matrix: ");
     int rowsA = Convert.ToInt32(Console.ReadLine());
 
-    Console.Write("Введите количество столбцов первой матрицы: ");
+    Console.Write("Enter the number of columns of the first matrix: ");
     int columnsA = Convert.ToInt32(Console.ReadLine());
-    Console.WriteLine("Первая матрица: \n");
+
     int[,] array = new int[rowsA, columnsA];
     for (int i = 0; i < rowsA; i++)
     {
         for (int j = 0; j < columnsA; j++)
         {
-            array[i, j] = i + j;
+            array[i, j] = new Random().Next(1, 100);
         }
     }
     return array;
@@ -166,20 +165,18 @@ int[,] CreateRandomMatrixA()
 
 int[,] CreateRandomMatrixB()
 {
-    Console.Write("Введите количество строк первой матрицы: ");
+    Console.Write("Enter the number of rows of the second matrix: ");
     int rowsB = Convert.ToInt32(Console.ReadLine());
 
-    Console.Write("Введите количество столбцов первой матрицы: ");
+    Console.Write("Enter the number of columns of the second matrix: ");
     int columnsB = Convert.ToInt32(Console.ReadLine());
-
-    Console.WriteLine("Вторая матрица:\n ");
 
     int[,] array = new int[rowsB, columnsB];
     for (int n = 0; n < rowsB; n++)
     {
         for (int k = 0; k < columnsB; k++)
         {
-            array[n, k] = n + k;
+            array[n, k] = new Random().Next(1, 100);
         }
     }
     return array;
@@ -228,15 +225,25 @@ int[,] MatrixMultiplication(int[,] MatrixA, int[,] MatrixB)
     return result;
 }
 
-
-ShowMatrix(CreateRandomMatrixA());
-ShowMatrix(CreateRandomMatrixB());
-
 int[,] MatrixA = CreateRandomMatrixA();
 int[,] MatrixB = CreateRandomMatrixB();
 
+Console.WriteLine("");
+
+Console.WriteLine("First matrix:\n");
+ShowMatrix(MatrixA);
+
+Console.WriteLine("");
+
+Console.WriteLine("Second matrix:\n");
+ShowMatrix(MatrixB);
+
+Console.WriteLine("");
+
+Console.WriteLine("Matrix sum:\n");
 ShowMatrix(MatrixMultiplication(MatrixA, MatrixB));
 
+*/
 
 //    Task 60. Сформируйте трёхмерный массив из неповторяющихся двузначных чисел. 
 //               Напишите программу, которая будет построчно выводить массив, добавляя индексы каждого элемента.
