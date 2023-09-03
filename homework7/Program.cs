@@ -92,7 +92,7 @@ void Show2dArray (int [,] array )
 void ElementPositions (int[,] array, int row, int column)
 {
     int rowCount = array.GetLength(0);
-    int columnCount = array.GetLength(1);
+    int columnCount= array.GetLength(1);
 
     if (row >= 0 && row <= rowCount && column >= 0 && column <= columnCount)
     {
